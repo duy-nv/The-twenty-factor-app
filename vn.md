@@ -5,7 +5,7 @@
 
 ## Giới thiệu
 
-Trong thời đại hiện đại, phần mềm thường được phát hành như một dịch vụ: được gọi là ứng dụng web hoặc phần mềm dịch vụ. Ứng dụng mười hai yếu tố là phương pháp để xây dựng các ứng dụng phần mềm dịch vụ:
+Trong thời đại hiện đại, phần mềm thường được cung cấp như một dịch vụ: được gọi là ứng dụng web hoặc phần mềm dịch vụ. Ứng dụng mười hai chlà phương pháp để xây dựng các ứng dụng phần mềm dịch vụ:
 
 * Sử dụng các định **khai báo** để tự động hóa việc thiết lập, và để tiết kiệm thời gian, chi phí cho những nhà phát triển mới tham gia vào dự án.
 
